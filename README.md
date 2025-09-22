@@ -1,8 +1,10 @@
 # ZathenaVentures-Official-Website **Public Version**
 
-The official agency website for ZATHENA VENTURES; we provide digital solutions such as applications, websites, software, video editing, and many other assets for businesses and brands in a digital age
+Description: The official agency website for ZATHENA VENTURES; we provide digital solutions such as applications, websites, software, video editing, and many other assets for businesses and brands in a digital age
 
 Website: https://zathenaventures.xyz
+
+Topics: 
 
 # Zathena Ventures
 
@@ -117,3 +119,4 @@ These secrets are used during the build process to correctly configure your fron
 ## Can I connect a custom domain to this project?
 
 Yes, you can connect a custom domain through your hosting provider's settings.
+
